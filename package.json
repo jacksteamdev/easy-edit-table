@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "sentence-splitter": "^2.2.0",
+    "sentence-tokenizer": "^0.0.7"
+  },
+  "name": "easy-edit-table",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "John Steam",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha **/*.test.js",
+    "test-watch": "nodemon --exec 'yarn test'"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.3.0"
+  }
+}
