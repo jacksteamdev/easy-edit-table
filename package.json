@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "array-flatten": "^2.1.1",
-    "sentence-splitter": "^2.2.0",
-    "sentence-tokenizer": "^0.0.7"
+    "sentence-splitter": "^3.0.8",
+    "sentence-tokenizer": "^1.0.0"
   },
   "name": "easy-edit-table",
   "version": "1.0.0",
@@ -14,7 +14,7 @@
     "test-watch": "nodemon --exec 'yarn test'"
   },
   "devDependencies": {
-    "expect": "^1.20.2",
-    "mocha": "^3.3.0"
+    "expect": "^22.4.3",
+    "mocha": "^5.1.1"
   }
 }
